@@ -1,0 +1,62 @@
+body {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+}
+table {
+   width: 100%;
+}
+
+
+
+
+.principal {
+   color: white;
+   background-color:rgb(122, 120, 120);
+   height: 10%;
+}
+
+
+.secundarios {
+   background-color: darkgrey;
+}
+
+
+input[type="text"],
+input[type="email"] {
+   width: 100%;
+   padding: 0px;
+   margin: 1px;
+   box-sizing: border-box;
+}
+
+
+button {
+
+
+   box-sizing: border-box;
+}
+
+
+.obs {
+   box-sizing: border-box;
+}
+
+
+textarea {
+   width: 100%;
+   height: 100%;
+   resize: none;
+}
+td {
+   background-color: #a3c7db;
+}
+button[type="submit"] {
+margin-left: 90px; margin-right: 5px;
+}
+
+
+form {
+   width: 100%;
+}
